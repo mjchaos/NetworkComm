@@ -1,0 +1,2 @@
+//To enable the security mode we must use this command 11/ 
+switchport mode security 
